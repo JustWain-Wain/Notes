@@ -36,7 +36,7 @@
 • submit tasks - сдавать задания
 • missed academic assignments - академические долги
 • a postgraduate - аспирант
-• major (verb) - специализироваться по какому-либо предмету
+• to major in - специализироваться по какому-либо предмету
 • costly - дорогостоящее
 • accomodation - проживание
 • getting a qualification - получать квалификацию
@@ -45,3 +45,8 @@
 • hall of residence - общежитие
 • milestone - рубеж, основной этап, веха
 • vast - обширный
+• the authorities - власти
+• to monitor - контролировать, следить
+• keep track - отслеживать
+• an invasion of privacy - вторжение в частную жизнь
+• deter to - фактор, сдерживающий от
