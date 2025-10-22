@@ -50,3 +50,4 @@
 • keep track - отслеживать
 • an invasion of privacy - вторжение в частную жизнь
 • deter to - фактор, сдерживающий от
+• blackmail - шантажировать
